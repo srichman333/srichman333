@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!
 
 <!--
 **srichman333/srichman333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Sarah Richman, and I am a rising junior at Brown University studying Applied Mathematics and Computer Science.
+Check out my work at https://sarah-richman.com!
