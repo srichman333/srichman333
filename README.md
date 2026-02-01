@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<--
 My name is Sarah Richman, and I am a junior at Brown University studying Applied Mathematics and Computer Science.
 Check out my work at https://sarah-richman.com!
+-->
